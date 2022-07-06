@@ -1,5 +1,6 @@
-# maratona_explorer_2
-Site desenvolvido durante a maratona explorer 2 da Rocketseat
+# linktree realizado durante a maratona explorer 2
+
+O linktree é um site utilizado para vincular diversos links em uma única página, conseguindo assim resolver o problema de adicionar diversos links nas redes sociais, como no perfil do Instagram, por exemplo.
 
 https://mrjoia.github.io/maratona_explorer_2/
 
