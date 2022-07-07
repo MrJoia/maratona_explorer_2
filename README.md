@@ -4,4 +4,4 @@ O linktree é um site utilizado para vincular diversos links em uma única pági
 
 https://mrjoia.github.io/maratona_explorer_2/
 
-![Sem título](https://user-images.githubusercontent.com/95688863/177651738-a18b9538-e814-4b10-b188-d26228ff68bd.jpg)
+![Sem título](https://user-images.githubusercontent.com/95688863/177662374-3736a1c1-d8b9-4993-bc70-a23a28acd4f9.jpg)
